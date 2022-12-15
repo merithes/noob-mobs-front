@@ -1,6 +1,6 @@
 # Noob Mobs (noob-mobs-front)
 
-Noob Mobs
+Just a project to try out Typescript & use this as a front for a NestJS back
 
 ## Install the dependencies
 ```bash
